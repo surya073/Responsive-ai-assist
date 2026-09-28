@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.75cc44d3.css",
+    "main.js": "/app/static/js/main.ebdc46d4.js",
+    "static/media/right-corner-png.png": "/app/static/media/right-corner-png.d03ab26a87703e9f11ec.png",
+    "static/media/motorbike.png": "/app/static/media/motorbike.e9238c4ef6320d546a7b.png",
+    "static/media/man.png": "/app/static/media/man.1316505a7ae4dcd647a7.png",
+    "static/media/responsive-lending-logo.png": "/app/static/media/responsive-lending-logo.3617ac31c4e0bda256b5.png",
+    "static/media/transport.png": "/app/static/media/transport.d616be42232678d577e1.png",
+    "index.html": "/app/index.html",
+    "main.75cc44d3.css.map": "/app/static/css/main.75cc44d3.css.map",
+    "main.ebdc46d4.js.map": "/app/static/js/main.ebdc46d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75cc44d3.css",
+    "static/js/main.ebdc46d4.js"
+  ]
+}
