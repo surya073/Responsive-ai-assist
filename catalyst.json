@@ -1,0 +1,13 @@
+{
+  "client": {
+    "source": "responsive-lending-ui",
+    "plugin": "zcatalyst-cli-plugin-react"
+  },
+  "functions": {
+    "targets": [
+      "voice-assistant-function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

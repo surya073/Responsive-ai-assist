@@ -1,0 +1,11 @@
+{
+	"name": "voice-assistant-function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "suryastillz073@gmail.com",
+	"dependencies": {
+		"@google/genai": "^2.17.1",
+		"express": "^5.2.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
